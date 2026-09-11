@@ -5,12 +5,7 @@ catalog and tooling. See [README.md](README.md) for the workflow.
 
 ## Governance
 
-Product direction, goals, finite projects, and work orders for this system
-are governed outside this repository, in the private Business-As-Code
-operating repository (`Business-As-Code/bac`, `systems/ultracart-okf.md`)
-with live work tracked in the Scale Lean Linear workspace. This repository
-does not carry its own task queue; treat issues and changes here as
-implementation-level only.
+Product direction and work are governed in [BAC Notion](https://app.notion.com/p/3d77d9824d9381748548f479ebc8d312). Before work, follow the [BAC agent instructions](https://app.notion.com/p/3d77d9824d93814ca3dfe2d8d763cf20). Notion Work is the live task record; Linear and old BAC repository references are historical. Keep catalog data and implementation documentation here.
 
 ## Boundaries
 
